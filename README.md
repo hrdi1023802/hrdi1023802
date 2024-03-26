@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-A versatile tech maestro with a penchant for creating impactful web solutions. My repertoire includes advanced front-end development with **React** and **Angular**, and constructing reliable backend systems with **Node.js**. I apply **clean coding practices**, **design patterns**, and **DDD principles** to deliver maintainable and scalable software.
+I'm a proactive software engineer with an eye on emerging tech trends and a dedication to lifelong learning. My experience spans sophisticated front-end projects using **React** and **Angular**, as well as robust back-end development with **Node.js**. Embracing **clean code**, **design patterns**, and **DDD**, I strive to create software that is as maintainable as it is impactful.
 
 ---
 
