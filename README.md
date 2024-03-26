@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-I'm a proactive software engineer with an eye on emerging tech trends and a dedication to lifelong learning. My experience spans sophisticated front-end projects using **React** and **Angular**, as well as robust back-end development with **Node.js**. Embracing **clean code**, **design patterns**, and **DDD**, I strive to create software that is as maintainable as it is impactful.
+I'm a proactive software engineer, always tuned into the latest tech trends with a commitment to lifelong learning. My expertise spans developing sophisticated front-end applications with **React** and **Angular**, as well as building robust back-end systems using **Node.js**. I am dedicated to writing clean code, utilizing design patterns, and adhering to DDD principles to create software that's both maintainable and effective.
 
 ---
 
