@@ -49,17 +49,23 @@
 
 ---
 
+## 💼 Professional Snapshot
+
+- **Roles:** Senior Software Engineer, Team Leader, Tech Mentor
+- **Specialties:**
+  - Functional Programming
+  - Cloud Solutions
+  - Cybersecurity
+- **Current Focus:**
+  - TypeScript Ecosystem
+  - React & Next.js
+  - AWS Cloud Services
+
+--
+
 ### ✨ One Last Thing...
 
 If you find my repositories enlightening or intriguing, don't forget to leave a star. Happy coding!
 
 ---
 
-## 💼 Professional Snapshot
-
-```typescript
-const professionalSummary = {
-  roles: ["Senior Software Engineer", "Team Leader", "Tech Mentor"],
-  specialties: ["Functional Programming", "Cloud Solutions", "Cybersecurity"],
-  currentFocus: ["TypeScript Ecosystem", "React & Next.js", "AWS Cloud Services"],
-};
