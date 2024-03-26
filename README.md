@@ -1,16 +1,65 @@
-### Hi there 👋
+# Hello, World! 🌐 I'm Daniel Hidalgo
 
-<!--
-**hrdi1023802/hrdi1023802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Engineer | TypeScript & Cloud Architecture Advocate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Front-end:** React, Next.js, TypeScript
+- **Back-end:** Node.js, NestJS
+- **Database:** PostgreSQL, MongoDB
+- **DevOps:** Docker, Kubernetes, GitHub Actions, Vercel
+- **Cloud:** AWS (EC2, S3, Lambda, Lightsail, IAM)
+- **Misc:** GraphQL, Redux, Web3
+
+---
+
+## 📈 Stats & Certifications
+
+- 🏆 **Certifications:** Symantec System Recovery, Symantec Endpoint Protection, GitHub Actions
+- 💼 **Currently at:** Acid Labs, leading the creation of innovative web applications
+- 📊 **Experience:** Over 8 years of professional experience in software development
+
+---
+
+## 🌱 I'm Currently...
+
+- 🔭 Working on a suite of **Web3 applications**.
+- 🌱 Learning about **serverless architectures** and **cloud patterns**.
+- 👯 Looking to collaborate on **TypeScript and Node.js** projects.
+- 🤔 Seeking help with **Kubernetes** and advanced **CI/CD pipelines**.
+- 💬 Happy to chat about **React best practices** and **modern JavaScript**.
+
+---
+
+## 📫 Reach Out to Me
+
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Hidalgo-blue)](https://www.linkedin.com/in/hrdi31/)
+- GitHub: [![GitHub](https://img.shields.io/github/followers/hrdi1023802?style=social)](https://github.com/hrdi1023802)
+- Email: [danielisrahr@live.com](mailto:danielisrahr@live.com)
+
+---
+
+## 😄 More About Me
+
+- Pronouns: He/Him
+- 🎸 Fun Fact: Apart from coding, I enjoy strumming the guitar and discovering new music.
+- 🍔 Leisure: Love to experiment with cooking and savor international cuisines.
+
+---
+
+### ✨ One Last Thing...
+
+If you find my repositories enlightening or intriguing, don't forget to leave a star. Happy coding!
+
+---
+
+## 💼 Professional Snapshot
+
+```typescript
+const professionalSummary = {
+  roles: ["Senior Software Engineer", "Team Leader", "Tech Mentor"],
+  specialties: ["Functional Programming", "Cloud Solutions", "Cybersecurity"],
+  currentFocus: ["TypeScript Ecosystem", "React & Next.js", "AWS Cloud Services"],
+};
