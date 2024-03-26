@@ -67,8 +67,10 @@ I'm open to networking, project collaborations, or just interesting tech discuss
 
 ### ⚡ Fun Facts
 
-- 🎸 Strumming the guitar is my go-to relaxation technique.
-- 🍔 A self-proclaimed foodie, I love experimenting with new recipes and flavors.
+- 🍔 Passionate about Ecuadorian cuisine — "Encebollado" is a favorite of mine. Highly recommended for anyone visiting Ecuador!
+- 🎮 When not coding, you can find me enjoying video games — a different realm of problem-solving.
+- ⚽ Football, tennis, and gym sessions are my go-to activities for a mental and physical balance.
+
 
 ---
 
